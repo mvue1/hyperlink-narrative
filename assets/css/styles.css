@@ -9,5 +9,11 @@
 h1 {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 3em; /* 3 times the size of the default font size */
+}
 
+a {
+	color: green;
+	font-weight: bold;
+	text-decoration: none;
+	border-bottom: green 2px dashed;
 }
